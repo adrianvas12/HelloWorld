@@ -1,3 +1,3 @@
 # HelloWorld
 Test / learning repository.
-![headshot] (eero.jpg)
+![headshot](eero.jpg)
